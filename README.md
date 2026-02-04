@@ -27,7 +27,7 @@ These steps ensured the dataset was analysis-ready and suitable for identifying 
 📊 Dataset & Analysis File  
 These files are shared in view-only mode for portfolio review:
 
-Summary: [View Summary Presentation](https://drive.google.com/file/d/1AY58KERTYcyriLbyGtqntXzjMW4chtIL/view?usp=sharing)
+Summary: [View Summary Presentation](https://drive.google.com/file/d/14Iok97geRYYxhqZy9fTq2V4PG46g6aOp/view?usp=drive_link)
 
 Excel: [View Excel Analysis](https://docs.google.com/spreadsheets/d/1zB_8LhJ5aGrrYFxiH8MDNGT_m38_0nDX/edit?usp=sharing&ouid=112966710535746080621&rtpof=true&sd=true)
 
@@ -43,6 +43,7 @@ These findings suggest that hospitals should prioritize surgical efficiency and 
 Growth in surgical admissions leads to increased consumption of medications and laboratory services, making surgery a key multiplier of ancillary revenue.
 
 Below are samples of the analysis carried out and more examples are included throughout the report.
+
 <img width="492" height="242" alt="Dashboard" src="https://github.com/user-attachments/assets/01d01a65-f33f-49c3-99fc-203876889ade" />
 
 ## Revenue Trends
