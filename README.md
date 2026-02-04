@@ -44,18 +44,18 @@ Growth in surgical admissions leads to increased consumption of medications and 
 
 Below are samples of the analysis carried out and more examples are included throughout the report.
 
-<img width="492" height="242" alt="Dashboard" src="https://github.com/user-attachments/assets/01d01a65-f33f-49c3-99fc-203876889ade" />
+![Dashboard](Dashboard.png)
 
 ## Revenue Trends
 
-<img width="602" height="134" alt="image" src="https://github.com/user-attachments/assets/879c71ca-f983-4401-9924-771b45f61ee0" />
+![KPI](KPI.png)
 
 1. Surgical Procedures Contribute Significantly to Revenue -The data shows that in surgical admissions, the surgical revenue makes up approximately 70% of the organization's total revenue. This suggests that surgical services are a significant contributor to the organization's overall financial performance.
 2. Increased Surgical Volume Correlates with Higher Revenues - The analysis indicates that a higher proportion of patients received surgical treatment.  This implies that performing more surgical procedures is associated with generating greater revenue compared to regular inpatient admissions.
 
 ## Further Analysis into surgical and non-surgical admissions 
 
-<img width="355" height="246" alt="image" src="https://github.com/user-attachments/assets/7508673f-83ff-47c2-8f37-01a6444ece95" />
+![Admissions](Admissions.png)
 
 ### Non-surgical cases
 1. Based on admission length, medium-term admissions generated the highest revenue (₦8M), followed by long-term (₦6.2M), immediate (₦3.4M), and short-term cases (₦2.6M). This means that an increase in admission days can increase the revenue generated.
@@ -66,7 +66,7 @@ Below are samples of the analysis carried out and more examples are included thr
 
 ## Analyzing the Age Demographic
 
-<img width="332" height="242" alt="image" src="https://github.com/user-attachments/assets/434ce3fa-7e4c-4d8f-98dc-30cc4c08238f" />
+![Age Demogaphy](https://raw.githubusercontent.com/salamahalawiye/Inpatient_Revenue_Analysis/main/Age%20Demography.png)
 
 ### Non-surgical cases
 Revenue increases progressively across age groups, peaking in young adults, indicating higher healthcare utilization and treatment intensity within this demographic. Based on diagnosis, Appendicitis generated the highest revenue (₦4.81M) then Typhoid (₦4.53M), and followed by Malaria (₦4.22M).
@@ -75,14 +75,14 @@ Surgical revenue rises steadily from pediatric to adult age groups, peaking from
 
 ## Ancillary Revenue
 
-<img width="368" height="197" alt="image" src="https://github.com/user-attachments/assets/78e32481-9556-4f5e-b7eb-fa8bbaff05e3" />
+![Lab&Medications](https://raw.githubusercontent.com/salamahalawiye/Inpatient_Revenue_Analysis/main/Lab%20%26%20Medications.png)
 
 - Surgery-driven admissions generate higher revenue not only from procedures but also from associated lab investigations, amplifying total billing per patient.
 - Increased medication usage in surgical admissions further elevates total billing, positioning medications as a secondary revenue driver after surgery.
 
 ## Anomaly Detection
 
-<img width="312" height="179" alt="image" src="https://github.com/user-attachments/assets/8251bd08-9d09-4f2d-a631-01532f093200" />
+![Anomaly](Anomaly.png)
 
 The picture above highlights several patient cases where the "% Revenue Ratio" exceeds 100%, indicating that the Surgical Cost is higher than the total Bill Amount. This suggests potential data quality issues or billing irregularities. 
 
