@@ -27,7 +27,7 @@ These steps ensured the dataset was analysis-ready and suitable for identifying 
 📊 Dataset & Analysis File  
 These files are shared in view-only mode for portfolio review:
 
-Summary: [View Summary Presentation](https://drive.google.com/file/d/14Iok97geRYYxhqZy9fTq2V4PG46g6aOp/view?usp=drive_link)
+Summary: [View Summary Presentation](https://drive.google.com/file/d/1GLBf19w9bbLmvOUbCSdzRkTH1VQXxLLz/view?usp=sharing)
 
 Excel: [View Excel Analysis](https://docs.google.com/spreadsheets/d/1zB_8LhJ5aGrrYFxiH8MDNGT_m38_0nDX/edit?usp=sharing&ouid=112966710535746080621&rtpof=true&sd=true)
 
