@@ -1,7 +1,7 @@
 # In-patient_Revenue_Analysis
 
 ## Project Background
-Amand Hospital is a multi-location healthcare organization in Nigeria providing inpatient services for both surgical and non-surgical cases. This project analyzes the hospital’s billing data to identify potential revenue leakages and evaluate the impact of surgical procedures on overall revenue.
+The project analyzed a multi-location healthcare organization in Nigeria providing inpatient services for both surgical and non-surgical cases. It aimed to analyze the hospital’s billing data to identify potential revenue leakages and evaluate the impact of surgical procedures on overall revenue.
 The objective is to uncover billing inefficiencies and generate actionable insights that support stronger financial control and more informed operational decision-making.
 
 ### Insights and recommendations are provided on the following key areas:
